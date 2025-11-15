@@ -15,7 +15,7 @@ def merge_sort(arr):
     return merge(left_sorted, right_sorted)
 
 def merge(left, right):
-    """Fungsi untuk menggabungkan dua list terurut"""
+    """Fungsi untuk menggabungkan dua list terurutan"""
     result = []
     i = j = 0
 
